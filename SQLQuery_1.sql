@@ -1,0 +1,1 @@
+SELECT BranchNo, COUNT(StaffID) as StaffCount, SUM(Salary) as SumOfSalary FROM Staff GROUP BY BranchNo HAVING BranchNo > 1 and SUM(Salary) > 400

@@ -26,4 +26,12 @@ SQL session and visualizer. (Alternatives may be sourced)
 
 
 
+## Reference Material, Links
+
+
+https://stackoverflow.com/questions/4702728/relational-table-naming-convention
+
+
+
+
 
